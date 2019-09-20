@@ -47,7 +47,7 @@
     // this adds a marker to the map
     var marker = L.marker([30.447965, -97.663395]).addTo(mymap);
 
-
+// showtimes, theater location api
     var apikey = "KjOQzlwvuexNF2nJ5EEMEBuwk3er0xXH"
     var url = ("https://api.internationalshowtimes.com/v4/cinemas/?apikey=" + apikey)
 
@@ -58,10 +58,15 @@
       console.log("TEST");
       console.log(response)
     });
-
-    
-
-
+    var movieName = "avengers"
+    var queryURL = "https://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
+           $.ajax({
+               url: queryURL,
+               method: "GET"
+           }).then(function (response) {
+               console.log(response);
+           });
+  
   </script>
 </body>
 
