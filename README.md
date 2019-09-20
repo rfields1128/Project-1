@@ -19,7 +19,7 @@ Don't know what theater is showing movies in that genre?
 
 This app will find movies that you're in the mood for that are showing in theaters near you!
 
-Rough Breakdown of tasks:
+Rough Breakdown of tasks:    
 
 API Team - Respsonsible for the implemenation of js, jquery, ajax to populate info based on user interaction
 Identify when user selects buttons (Ex: Genre, Rating, Location, Sort By, and Find/Go) - TMDB
