@@ -11,7 +11,7 @@ Project Members:
 
 API's to be Used:
 The Movie Database
-Google Maps API
+Leaflet API
 
 Project Description:
 Know what genre/type of movie you're in the mood to see?
