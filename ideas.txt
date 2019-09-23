@@ -1,0 +1,2 @@
+loop through each results and look for response.genre = whatever genre was pressed 
+regurgitate top movies in that genre with the rating (parseInt rating)
