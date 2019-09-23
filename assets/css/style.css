@@ -1,0 +1,88 @@
+body {
+    /* background-color: black; */
+    margin: auto 0;
+    background-image: url('../images/scarycollage1.jpg');
+    background-repeat: repeat;
+    background-attachment: relative;
+    background-position: right;
+}
+
+#main-container {
+    background-color: black;
+}
+
+.jumbotron {
+    position: relative;
+    padding:0 !important;
+    margin-top:70px !important;
+    background-color: black;
+    margin-top: 23px;
+    text-align:center;
+    margin-bottom: 0 !important; 
+  }
+
+#button-container-custom {
+    margin: auto 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+.btn.btn-danger.dropdown-toggle {
+    padding: 5px;
+    float: none;
+}
+
+.btn-group {
+
+}
+
+/* #card-container {
+    margin: auto 0px;
+    padding: 0px;
+} */
+
+
+
+
+/*
+
+#doc-container {
+    background-color: black;
+    margin: auto 0;
+    padding: 0px;
+    width: 100%;
+
+}
+
+
+#jumbotron-custom {
+    margin: auto 30px;
+    padding: 20px;
+}
+
+#jumbotron-custom2 {
+    margin: auto 30px;
+    padding: 20px;
+    background-color: black;
+}
+
+#genre-dropdown {
+    position: absolute;
+} 
+
+*/
+
+
+
+/* Lacy CSS */
+
+  /* .container-fluid{
+    padding:0;
+    background-color: black;
+  }
+  ​
+  .container{
+    background-color: black;
+  } */
+
+ 
